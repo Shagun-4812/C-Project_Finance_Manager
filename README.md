@@ -106,5 +106,5 @@ Want to improve this project? PRs are welcome! 🎉
 
 ---
 
-👨‍💻 **Developed by [Your Name]**
+👨‍💻 **Developed by Shagun Shukla**
 
