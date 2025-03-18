@@ -106,5 +106,5 @@ Want to improve this project? PRs are welcome! 🎉
 
 ---
 
-👨‍💻 **Developed by Shagun Shukla**
+👨‍💻 **Developed by Shagun Shukla and Rishikesh Pandey**
 
