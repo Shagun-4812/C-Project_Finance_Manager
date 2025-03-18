@@ -1,7 +1,7 @@
-# 📊 AI-Powered Personal Finance Manager
+# 📊 Personal Finance Manager
 
 ## 🔥 Overview
-The **AI-Powered Personal Finance Manager** is a C++ program that allows users to **track income, manage expenses, generate financial reports, and analyze spending habits**. This project helps individuals make better financial decisions by categorizing transactions and offering **smart spending analysis** with recommendations.
+The **Personal Finance Manager** is a C++ program that allows users to **track income, manage expenses, generate financial reports, and analyze spending habits**. This project helps individuals make better financial decisions by categorizing transactions and offering **smart spending analysis** with recommendations.
 
 ## 🚀 Features
 ### ✅ **Transaction Management**
